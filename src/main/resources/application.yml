@@ -1,0 +1,5 @@
+spring.application.name: acquisition
+server:
+  port: 8081
+
+spring.cloud.consul.ribbon.enabled: true
